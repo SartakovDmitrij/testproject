@@ -13,4 +13,12 @@
         android:layout_height="wrap_content"
         android:text="Test Project!" />
 
+
+    <Button
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Project!" />
+
 </RelativeLayout>
